@@ -10,7 +10,7 @@ The winning implementation may replace the current versions of TON Wallet.
 
 The competition is held for four three platforms: IOS, Android, Desktop.
 
-Desktop application’s should support three major platforms: MacOS, Windows, Linux.
+Desktop application’s should support three major platforms: macOS, Windows, Linux.
 
 **Prize fund:** $60,000
 
