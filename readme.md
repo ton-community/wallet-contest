@@ -69,7 +69,7 @@ You can find description and sources of wallet contract’s in official doc’s 
 
 Since we want this wallet not to depend on third-party API’s or providers - it should connect directly to TON network using [ADNL protocol](https://ton.org/docs/develop/dapps/apis/adnl).
 
-We recommend using the [tonlib](https://github.com/ton-blockchain/ton/tree/master/example/android) to interact with the network, but you are free to implement your own client. Note that your implementation should check Merkle proof's from network. 
+We recommend using the [tonlib](https://github.com/ton-blockchain/ton/tree/master/example/android) to interact with the network, but you are free to implement your own client or use any other safe client that connects directly to the network. Note that client you use should check Merkle proof's from network. 
 
 ### Animations
 
