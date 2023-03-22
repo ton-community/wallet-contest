@@ -57,7 +57,7 @@ Your app should support different versions of wallet smart contract’s.
 
 Everything in TON is a smart-contract including wallet’s and address of smart-contract (as well as the wallet) depend’s on initial data and code. This means that for given public key one can have different addresses depending on which wallet contract code is used.
 
-Your app should support switching between `v3R1`, `v2R2` and `v4R2` wallet contracts.
+Your app should support switching between `v3R1`, `v3R2` and `v4R2` wallet contracts.
 
 You can find description and sources of wallet contract’s in official doc’s - [https://ton.org/docs/participate/wallets/contracts](https://ton.org/docs/participate/wallets/contracts)
 
