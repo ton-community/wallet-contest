@@ -1,5 +1,9 @@
 # TON Wallet contest description
 
+https://user-images.githubusercontent.com/36699605/226904163-cf6d9334-5dde-43e4-891f-69aa9a391717.mp4
+
+<br>
+
 The task is to create updated versions of TON Wallet’s based on provided [mockups](https://github.com/ton-community/wallet-contest/raw/main/TON%20Wallet%20Contest.zip).
 
 The TON Wallets are open source non-custodial wallets and are an essential part of the TON blockchain ecosystem.
