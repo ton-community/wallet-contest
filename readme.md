@@ -12,7 +12,7 @@ Final implementations should include features listed below and should follow pro
 
 The winning implementation may replace the current versions of TON Wallet.
 
-The competition is held for four three platforms: IOS, Android, Desktop.
+The competition is held for three platforms: IOS, Android, Desktop.
 
 Desktop application’s should support three major platforms: macOS, Windows, Linux.
 
