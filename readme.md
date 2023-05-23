@@ -18,7 +18,7 @@ Desktop application’s should support three major platforms: macOS, Windows, Li
 
 **Prize fund:** $60,000
 
-**Deadline:** 22 May, 18:00 UTC
+**Deadline:** 28 May, 18:00 UTC +4
 
 ### The task
 
